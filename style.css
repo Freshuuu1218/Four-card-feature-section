@@ -170,7 +170,7 @@ body{
      }
     
     .card.karma {
-        margin: 1em;
+        margin: 0 0 1em 0;
     }
     
     .card.calculator {
